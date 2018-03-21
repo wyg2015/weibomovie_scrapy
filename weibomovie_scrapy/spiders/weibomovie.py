@@ -11,3 +11,6 @@ class WeibomovieSpider(scrapy.Spider):
 
     def parse(self, response):
         pass
+
+    def parse1(self):
+        pass
