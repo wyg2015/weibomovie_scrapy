@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 import scrapy
 
-
+'''
+微博电影评论爬虫
+'''
 class WeibomovieSpider(scrapy.Spider):
     name = "weibomovie"
     allowed_domains = ["weibo.com"]
