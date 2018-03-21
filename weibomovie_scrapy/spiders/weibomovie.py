@@ -13,4 +13,4 @@ class WeibomovieSpider(scrapy.Spider):
         pass
 
     def parse1(self):
-        pass
+        return 0
